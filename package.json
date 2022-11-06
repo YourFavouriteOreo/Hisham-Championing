@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start":"nodemon main.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "readline-sync": "^1.4.10"
+  }
+}
